@@ -1,0 +1,7 @@
+{
+  "binary": "/Users/brad.hurley/.pyenv/versions/duck_typing/bin/pyre.bin",
+  "source_directories": [
+    "/Users/brad.hurley/repo/pyohio-duck-typing/example_code/pyre"
+  ],
+  "typeshed": "/Users/brad.hurley/.pyenv/versions/3.6.5/envs/duck_typing/lib/pyre_check/typeshed/"
+}
