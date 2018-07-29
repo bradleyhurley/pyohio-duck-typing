@@ -1,3 +1,6 @@
 .DS_Store
+monkeytype.sqlite3
 .pyc
 .ipynb_checkpoints/
+__pycache__/
+.mypy_cache/
